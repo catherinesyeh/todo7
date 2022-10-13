@@ -1,6 +1,8 @@
 # todo7
 Todo app made with meteor and svelte: [https://cyeh-todo-app.meteorapp.com/](https://cyeh-todo-app.meteorapp.com/)
 
+- *Note:* the source code for the app is located in the [simple-todos-svelte](simple-todos-svelte) folder
+
 ## instructions
 Open [webpage](https://cyeh-todo-app.meteorapp.com/) to start exploring. You will first be prompted with the login screen:
 
